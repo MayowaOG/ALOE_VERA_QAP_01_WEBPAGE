@@ -164,7 +164,7 @@ footer {
 }
 .main_box {
     width: 1200px;
-    height: 3275px;
+    height: 3400px;
     background-color: rgb(35, 41, 41);
     display: flow-root;
     box-sizing: border-box;
@@ -234,8 +234,7 @@ footer {
     background-size: cover;
     /* border: 5pt solid rgb(187, 204, 183); */
     float: right;
-    margin-left: 60px;
-    margin-top: -20px;
+    margin-left: 85px;
     shape-outside: polygon(0% 90%, 100% 30%, 80% 0%);
 }
 
@@ -250,4 +249,22 @@ footer {
     width: 175pt;
     margin-left: 375px;
     padding-bottom: 5px;
+}
+
+video {
+    width: 480px;
+    height: auto;
+    border-radius: 25px;
+
+}
+
+.video_box {
+    width: 480px;
+    height:  270px;
+    border: 2pt solid rgb(219, 237, 215);
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.35) 5px 5px 3px;
+    margin-top: 25px;
+    margin-right: 20px;
+    float: left;
 }
