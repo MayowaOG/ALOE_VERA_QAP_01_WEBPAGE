@@ -8,6 +8,7 @@ html {
     max-height: fit-content;
     margin: auto;
     box-sizing: border-box;
+    padding-bottom: 50px;
 }
 
 body {
@@ -164,7 +165,7 @@ footer {
 }
 .main_box {
     width: 1200px;
-    height: 3400px;
+    height: 3450px;
     background-color: rgb(35, 41, 41);
     display: flow-root;
     box-sizing: border-box;
@@ -210,15 +211,15 @@ footer {
 }
 
 .img_box_02 {
-    width: 384px;
-    height: 534px;
+    width: 371px;
+    height: 475px;
     background-image: url(images/ALOE_BEAUTY_01.png);
     background-repeat: no-repeat;
     background-size: cover;
     /* border: 5pt solid rgb(187, 204, 183); */
     float: left;
-    margin-right: 50px;
-    margin-top: 25px;
+    margin-right: 35px;
+    margin-top: 50px;
     margin-bottom: 25px;
     border-radius: 50px;
     border: 2pt solid rgb(219, 237, 215);
@@ -264,7 +265,8 @@ video {
     border: 2pt solid rgb(219, 237, 215);
     border-radius: 25px;
     box-shadow: rgba(0, 0, 0, 0.35) 5px 5px 3px;
-    margin-top: 25px;
-    margin-right: 20px;
+    margin-top: 95px;
+    margin-right: 25px;
+    margin-bottom: 75px;
     float: left;
 }
